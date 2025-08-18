@@ -1,0 +1,3 @@
+intr y;
+y = 5;
+pritn(y)
