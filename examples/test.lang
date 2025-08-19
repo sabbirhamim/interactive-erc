@@ -1,0 +1,10 @@
+#include<stdio.h>
+
+inr main()
+{
+ int x=2
+ folat y= 2.5
+ int sun = x+y;
+ pirnt("Result= %d");
+  return 0;
+}
